@@ -1,0 +1,11 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#clock{
+    width:100px;
+    height:100px;
+    border:10px solid black;
+    border-radius:50%;
+}
